@@ -76,8 +76,7 @@ python
 Copy code
 df.dropna(inplace=True)
 Заполнить пропущенные значения определенным значением:
-python
-Copy code
+
 df.fillna(value, inplace=True)
 Сохранение данных
 Сохранить данные в CSV файл:
